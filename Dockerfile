@@ -1,5 +1,5 @@
 #Repo Jmthon Clone
-RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
+RUN git clone https://github.com/Huksk3/JM-THON.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
